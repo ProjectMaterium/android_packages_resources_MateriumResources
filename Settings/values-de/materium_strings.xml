@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="materium_maintainer"></string>
     <string name="materium_version">Materium-Version</string>
     <string name="selinux_status">SELinux-Status</string>
     <string name="selinux_status_disabled">Deaktiviert</string>
