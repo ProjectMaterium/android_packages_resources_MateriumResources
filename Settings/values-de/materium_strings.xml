@@ -8,4 +8,5 @@
     <string name="window_blur_mat">Unschärfe aktivieren</string>
     <string name="device_info_protected_single_press">Tippen, um Infos anzuzeigen</string>
     <string name="materium_maintainer_title">Gerätemaintainer</string>
+    <string name="materium_maintainer_unknown">Unbekannt</string>
 </resources>
