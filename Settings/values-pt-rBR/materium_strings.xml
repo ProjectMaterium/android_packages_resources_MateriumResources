@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="selinux_status_disabled">Desativado</string>
+    <string name="materium_maintainer_unknown">Desconhecido</string>
+    <string name="materium_version">Versão da Materium</string>
+</resources>
