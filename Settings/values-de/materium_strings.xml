@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="materium_maintainer"></string>
+    <string name="materium_version">Materium-Version</string>
+    <string name="selinux_status">SELinux-Status</string>
+    <string name="selinux_status_disabled">Deaktiviert</string>
+    <string name="selinux_status_permissive">Freizügig</string>
+    <string name="selinux_status_enforcing">Strikt</string>
+    <string name="window_blur_mat">Unschärfe aktivieren</string>
+    <string name="device_info_protected_single_press">Tippen, um Infos anzuzeigen</string>
+    <string name="materium_maintainer_title">Gerätemaintainer</string>
+</resources>
