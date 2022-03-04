@@ -9,5 +9,5 @@ dirs["Settings"]="packages/apps/Settings/res"
 for i in "${!dirs[@]}"; do
 cp "$ANDROID_BUILD_TOP/${dirs[$i]}"/values/materium_strings.xml "$TARGETPATH/$i.xml"
 done
-git -C "$TARGETPATH" add --all
+git -C "$TARGETPATH" add .
 git -C "$TARGETPATH" commit -m "[Automated] Pull translations"
