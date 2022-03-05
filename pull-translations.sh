@@ -5,6 +5,7 @@ TARGETPATH="$ANDROID_BUILD_TOP/packages/resources/MateriumTranslations"
 ###    Definitions     ###
 dirs["Backgrounds"]="packages/apps/Backgrounds/res"
 dirs["Settings"]="packages/apps/Settings/res"
+dirs["core"]="frameworks/base/core/res/res"
 ### End of Definitions ###
 for i in "${!dirs[@]}"; do
 cp "$ANDROID_BUILD_TOP/${dirs[$i]}"/values/materium_strings.xml "$TARGETPATH/$i.xml"
