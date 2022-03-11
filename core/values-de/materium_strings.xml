@@ -5,4 +5,5 @@
     <string name="permgrouprequest_fake_package_signature">Erlaube &lt;b&gt;<xliff:g id="app_name" example="Gmail">%1$s</xliff:g>&lt;/b&gt;, die Paketsignatur zu fälschen\?</string>
     <string name="permlab_fakePackageSignature">Paketsignatur fälschen</string>
     <string name="permdesc_fakePackageSignature">Erlaubt der App, vorzugeben, eine andere App zu sein. Bösartige Apps könnten dies verwenden, um private App-Daten abzugreifen. Legitime Verwendungen sind unter anderem ein Emulator, der vorgibt, das zu sein, was er emuliert. Erlaube dies nur mit größter Vorsicht!</string>
+    <string name="face_unlock_disabled_idle">Gesichtsentsperrung wegen Inaktivität deaktiviert</string>
 </resources>
