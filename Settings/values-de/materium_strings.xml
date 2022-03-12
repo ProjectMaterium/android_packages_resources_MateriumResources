@@ -16,4 +16,8 @@
     <string name="face_redo_confirm_btn">Wiederholen</string>
     <string name="face_redo_warning_msg">Willst du den existierenden Gesichtsscan entfernen und einen neuen hinzufügen\?</string>
     <string name="face_unlock_method_swipe">Beim Wischen auf dem Sperrbildschirm</string>
+    <string name="duration_less_than_one_minute">Weniger als eine Minute</string>
+    <string name="screen_time_summary_usage_today">Heute %1$s</string>
+    <string name="battery_saver_refresh_rate_title">Refresh-Rate reduzieren</string>
+    <string name="battery_saver_refresh_rate_summary">Verwende eine 60 Hz Bildschirm-Refresh-Rate, um Strom zu sparen, wenn der Energiesparmodus aktiviert ist</string>
 </resources>
