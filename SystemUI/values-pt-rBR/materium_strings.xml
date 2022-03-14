@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="face_unlock_recognizing">Reconhecendo o rosto...</string>
+    <string name="navigation_bar_format_title">Formato da barra de navegação</string>
+    <string name="lockscreen_hidden">Nenhum</string>
 </resources>
