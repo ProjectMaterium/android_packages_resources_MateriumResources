@@ -5,5 +5,8 @@
     <string name="materium_version">Versão da Materium</string>
     <string name="face_unlock_method_title">Permitir desbloqueio facial na tela de bloqueio</string>
     <string name="screen_time_summary_usage_today">%1$s hoje</string>
-    <string name="battery_saver_refresh_rate_summary">Use a taxa de atualização de tela de 60 Hz para economizar energia quando a economia de bateria estiver ativada</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Remova o escaneamento de rosto existente e crie um novo escaneamento</string>
+    <string name="face_redo_warning_msg">Deseja remover o escaneamento de rosto existente e criar um novo\?</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Refazer escaneamento de rosto</string>
+    <string name="face_redo_confirm_btn">Refazer</string>
 </resources>
