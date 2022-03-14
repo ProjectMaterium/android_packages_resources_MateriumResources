@@ -5,6 +5,5 @@
     <string name="materium_version">Versão da Materium</string>
     <string name="face_unlock_method_title">Permitir desbloqueio facial na tela de bloqueio</string>
     <string name="screen_time_summary_usage_today">%1$s hoje</string>
-    <string name="battery_saver_refresh_rate_title">Reduzir a taxa de atualização</string>
     <string name="battery_saver_refresh_rate_summary">Use a taxa de atualização de tela de 60 Hz para economizar energia quando a economia de bateria estiver ativada</string>
 </resources>
