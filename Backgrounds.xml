@@ -19,6 +19,7 @@
 	<string name="category_stellar">Nostalgic Space</string>
 	<string name="author_megh">Megh</string>
 	<string name="author_qirkl">Qirkl</string>
+	<string name="author_usif">Usif</string>
 	<string name="wallpaper_stellar0">Stars in the Sky</string>
 	<string name="wallpaper_stellar1">The Moon</string>
 	<string name="wallpaper_stellar2">Over the Clouds</string>
@@ -38,4 +39,8 @@
 	<string name="wallpaper_mdyou10">Toast</string>
 	<string name="wallpaper_logo">Logo on Waves</string>
 	<string name="wallpaper_internal">Internal Beta</string>
+	<string name="wallpaper_usif0">Logo on blurred orange</string>
+	<string name="wallpaper_usif1">Logo on blurred purple</string>
+	<string name="wallpaper_usif2">Logo on blurred purple-blue</string>
+	<string name="wallpaper_usif3">Logo on blurred sky blue</string>
 </resources>
