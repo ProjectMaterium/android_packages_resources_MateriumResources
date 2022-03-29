@@ -14,7 +14,8 @@
   limitations under the License.
   -->
 <resources>
-	<string name="category_logo">Materium Logo</string>
+	<string name="category_logo">Materium</string>
+	<string name="category_logo2">Logo</string>
 	<string name="category_mdyou">Material You</string>
 	<string name="category_stellar">Nostalgic Space</string>
 	<string name="author_megh">Megh</string>
@@ -43,4 +44,5 @@
 	<string name="wallpaper_usif1">Logo on blurred purple</string>
 	<string name="wallpaper_usif2">Logo on blurred purple-blue</string>
 	<string name="wallpaper_usif3">Logo on blurred sky blue</string>
+	<string name="wallpaper_default">Default</string>
 </resources>
