@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="selinux_status_disabled">Desativado</string>
-    <string name="materium_version">Versão da Materium</string>
     <string name="face_unlock_method_title">Permitir desbloqueio facial na tela de bloqueio</string>
     <string name="screen_time_summary_usage_today">%1$s hoje</string>
     <string name="security_settings_face_unlock_redo_face_scan_summary">Remova o escaneamento de rosto existente e crie um novo escaneamento</string>
     <string name="face_redo_warning_msg">Deseja remover o escaneamento de rosto existente e criar um novo\?</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">Refazer escaneamento de rosto</string>
     <string name="face_redo_confirm_btn">Refazer</string>
+    <string name="volume_steps_30">30</string>
+    <string name="volume_steps_7">7</string>
+    <string name="volume_steps_5">5</string>
+    <string name="use_games_spoof_title">Desbloquear FPS mais alto em jogos</string>
+    <string name="duration_less_than_one_minute">Menos de 1 minuto</string>
+    <string name="volume_steps_60">60</string>
+    <string name="volume_steps_45">45</string>
+    <string name="volume_steps_15">15</string>
+    <string name="face_unlock_method_default">Quando a tela está ligada</string>
+    <string name="ng_maintainer_unknown">Desconhecido</string>
+    <string name="ng_version">Versão da droid-ng</string>
+    <string name="ng_top_level_title">droid-ng</string>
+    <string name="face_unlock_method_swipe">Ao deslizar na tela de bloqueio</string>
+    <string name="display_cutout_force_fullscreen_title">Aplicativos em tela cheia</string>
+    <string name="use_games_spoof_summary">Falsifique seu dispositivo como modelo diferente para jogos específicos para desbloquear FPS mais alto</string>
 </resources>
